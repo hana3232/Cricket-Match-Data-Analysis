@@ -133,7 +133,7 @@ python analyze_data.py
 
 ### **6. Perform EDA & Generate Visualizations**
 ```bash
-python eda_visualizations.py
+python EDA.ipynb
 ```
 
 ### **7. Open Power BI Dashboard**
